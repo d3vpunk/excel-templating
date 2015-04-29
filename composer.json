@@ -1,0 +1,11 @@
+{
+    "name": "devpunk/excel-templating",
+    "description": "Excel templating",
+    "require": {
+        "php": ">=5.4.0",
+        "phpoffice/phpexcel": "~1.8.0"
+    },
+    "require-dev": {
+        "phpspec/phpspec": "2.0.1"
+    }
+}

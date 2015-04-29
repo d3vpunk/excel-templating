@@ -10,7 +10,7 @@ class ExcelTemplating implements ExcelTemplatingInterface
 {
     public function render(\SplFileInfo $file, array $data)
     {
-        foreach($data as $key => $d) {
+        foreach ($data as $key => $d) {
 
         }
     }
